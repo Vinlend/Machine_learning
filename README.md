@@ -5,6 +5,7 @@ Bulding a few convolutional neural networks to classify MNIST dataset.
 - Choose hidden layer for the model.
 - Diplay result using accuracy plot, confusion matrix, and classification report. 
 - Check summary of a model to see number of parameters on each hidden layer.
+
 Training the final CNN that classifies the maximum out of the test set.
 - Find how many entries were missclasified
 - Diplay missclassified entries
